@@ -13,6 +13,7 @@ Majority of the other libraries are in-built and comes with the python package.
 
 
 HOW TO RUN!
+
 python core.py
 
 
